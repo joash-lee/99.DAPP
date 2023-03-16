@@ -1,4 +1,11 @@
-# Real Estate NFT DApp
+#### Real Estate NFT DApp ####
+Welcome to 99.DAPP: A decentralisedspin-off of property buying and listing website 99.co
+
+Here you can buy, sell, inspect and lend properties just like on websites like Willow and 99.co
+
+Unique Web3 features include property listings being listed as NFTs as well as decentralised agents like inspectors and sellers
+
+Follow the below steps to try the website for yourself !
 
 ## Technology Stack & Tools
 
@@ -11,21 +18,18 @@
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
 
-## Setting Up
-### 1. Clone/Download the Repository
-
-### 2. Install Dependencies:
+### To Install Dependencies:
 `$ npm install`
 
-### 3. Run tests
+###  To Run tests
 `$ npx hardhat test`
 
-### 4. Start Hardhat node
+### Start Hardhat node
 `$ npx hardhat node`
 
-### 5. Run deployment script
+### Run deployment script
 In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 
-### 7. Start frontend
+### Start frontend
 `$ npm run start`
