@@ -1,4 +1,4 @@
-#### Real Estate NFT DApp ####
+# Real Estate NFT DApp #
 Welcome to 99.DAPP: A decentralisedspin-off of property buying and listing website 99.co
 
 Here you can buy, sell, inspect and lend properties just like on websites like Willow and 99.co
